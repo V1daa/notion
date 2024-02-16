@@ -1,0 +1,34 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1707234034780,
+      "tag": "0000_lame_deadpool",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1707236483816,
+      "tag": "0001_solid_morgan_stark",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1707237283185,
+      "tag": "0002_little_venus",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1708008466519,
+      "tag": "0003_sleepy_captain_stacy",
+      "breakpoints": true
+    }
+  ]
+}
